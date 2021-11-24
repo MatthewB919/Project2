@@ -12,7 +12,24 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: medium;
   line-height: normal;
-  background-color: #;
+  background-color:#EEEEEE;
+  padding: 2em;
+}
+
+nav {
+
+  background-color: #ffffff;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+
+  display: inline-grid;
+  text-align: center;
+  padding: 1em;
+  text-indent: 0;
+  font-size: 1.5em;
 }
 
  img {
