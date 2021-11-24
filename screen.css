@@ -32,6 +32,31 @@ nav li {
   font-size: 1.5em;
 }
 
+p {
+
+  padding-left: 1em;
+  /* 10/16=0.625*/
+  padding-top: 0.625em;
+}
+
+h1 {
+
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: #696969;
+  padding: 0.5em;
+  /*25/16=1.5625 */
+  border-radius: 1.5625em 1.5625em 0 0;
+  color: white;
+}
+
  img {
    display: block;
    max-width: 100%;
