@@ -62,11 +62,14 @@ h2 {
    max-width: 100%;
  }
 
-(min-width: )  {
-
+@media all and (min-width: 800px)  {
+  section {
+    width: 50%
+  }
 }
 
-(min-width: ) {
-
-
+@media all and (min-width: 600px)  {
+  section {
+    width: 50%
+  }
 }
